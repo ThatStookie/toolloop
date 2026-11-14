@@ -95,7 +95,3 @@ These are future plans, not capabilities of the current prototype.
 
 Built by a two-person team during MagdeHack 2026.
 
-| Team member | GitHub |
-| --- | --- |
-| [Team member 1 name — to be added] | [GitHub username — to be added] |
-| [Team member 2 name — to be added] | [GitHub username — to be added] |
